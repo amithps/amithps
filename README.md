@@ -1,6 +1,6 @@
 <div align="center">
   
- <h1 align="center">Hi 👋, I'm Amith P S</h1>
+ <h1 align="center">Hi 👋, I'm Amith </h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-AMITH_PS-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/amithps/)
